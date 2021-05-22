@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(5, 5, 54);
+}
+h2{
+    text-align:center;
+    color:white;
+    margin:auto;
+    margin-top: 270px;
+    font-family:Ubuntu', sans-serif;
+   
+    height:50px;
+    
+}
+.name{
+    color:rgb(116, 2, 2);
+}
+ li{
+     list-style: none;
+     margin-top: 15px;
+ }
+.btn li a{
+     color:white;
+     text-decoration:none;
+     background-color:rgb(5, 5, 54) ;
+     border:2px solid white;
+     cursor:pointer;
+     margin:10px 686px;
+     margin-top:10px;
+     padding:8px 17px;
+ 
+}
